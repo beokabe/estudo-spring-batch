@@ -1,0 +1,23 @@
+# Configuração do banco H2
+#spring:
+#  datasource:
+#    url: jdbc:h2:mem:testdb
+#    driverClassName: org.h2.Driver
+#    username: sa
+#    password: password
+
+#Configuração do banco PostgreSQL
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/spring_batch
+    username: postgres
+    password: postgres
+  batch:
+    jdbc:
+      initialize-schema: always
+
+#spring:
+#  jpa:
+#    properties:
+#      hibernate:
+#        dialect: org.hibernate.dialect.PostgreSQLDialect

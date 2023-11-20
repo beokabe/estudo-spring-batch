@@ -1,0 +1,22 @@
+version: '3.1'
+
+services:
+  postgres:
+    image: postgres:latest
+    container_name: potsgres-projeto-spring-batch
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_DB: spring_batch
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    volumes:
+      - .init-scripts:/docker-entrypoint-initdb.d
+  portainer:
+    image: portainer/portainer-ce
+    container_name: portainer-prrimeiro-projeto-spring-batch
+    ports:
+      - "9000:9000"
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+    restart: always
