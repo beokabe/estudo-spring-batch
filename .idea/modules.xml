@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/estudo-spring-batch.iml" filepath="$PROJECT_DIR$/.idea/estudo-spring-batch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parimparjob/parimparjob.iml" filepath="$PROJECT_DIR$/parimparjob/parimparjob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primeiroprojetospringbatch/primeiroprojetospringbatch.iml" filepath="$PROJECT_DIR$/primeiroprojetospringbatch/primeiroprojetospringbatch.iml" />
+    </modules>
+  </component>
+</project>

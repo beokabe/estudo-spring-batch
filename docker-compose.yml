@@ -14,7 +14,7 @@ services:
       - .init-scripts:/docker-entrypoint-initdb.d
   portainer:
     image: portainer/portainer-ce
-    container_name: portainer-prrimeiro-projeto-spring-batch
+    container_name: portainer-primeiro-projeto-spring-batch
     ports:
       - "9000:9000"
     volumes:
