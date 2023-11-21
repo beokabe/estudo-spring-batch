@@ -5,8 +5,11 @@ import com.springbatch.arquivomultiplosformatos.dominio.Transacao;
 import org.springframework.batch.item.ExecutionContext;
 import org.springframework.batch.item.ItemStreamException;
 import org.springframework.batch.item.ItemStreamReader;
+import org.springframework.batch.item.file.FlatFileItemReader;
+import org.springframework.batch.item.file.ResourceAwareItemReaderItemStream;
+import org.springframework.core.io.Resource;
 
-public class ArquivoClienteTransacaoReader implements ItemStreamReader<Cliente> {
+public class ArquivoClienteTransacaoReader implements ItemStreamReader<Cliente>, ResourceAwareItemReaderItemStream<Cliente> {
 
     /**
      * Esta classe personaliza a leitura de dados no contexto de um job Spring Batch.
@@ -22,9 +25,12 @@ public class ArquivoClienteTransacaoReader implements ItemStreamReader<Cliente> 
      */
 
     private Object objAtual;
-    private ItemStreamReader<Object> delegate; //delegate é um objeto com várias operações são delegadas a ele
 
-    public ArquivoClienteTransacaoReader(ItemStreamReader<Object> delegate) {
+    //delegate é um objeto com várias operações são delegadas a ele
+    //private ItemStreamReader<Object> delegate;
+    private FlatFileItemReader<Object> delegate;
+
+    public ArquivoClienteTransacaoReader(FlatFileItemReader<Object> delegate) {
         this.delegate = delegate;
     }
 
@@ -63,5 +69,10 @@ public class ArquivoClienteTransacaoReader implements ItemStreamReader<Cliente> 
     private Object peek() throws Exception {
         objAtual = delegate.read(); //leitura do próximo item
         return objAtual;
+    }
+
+    @Override
+    public void setResource(Resource resource) {
+        delegate.setResource(resource);
     }
 }
