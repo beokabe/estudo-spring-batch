@@ -69,3 +69,12 @@ public class ParImparBatchConfig {
         return itens -> itens.forEach(System.out::println);
     }
 }
+
+
+ Inicialmente a tarefa é definida por 2 etapas que é de leitura e envio, ela pode parecer fácil, mas levando em consideração a carga de dados que deve ser tratada e o prazo, torna-se complexa, não sendo possível completá-la de uma vez ou a curto prazo. Nesse caso, a forma mais ideal de lidar com a situação é usando chunk. Veja porque:
+
+O oferece o recurso de escolher dinamicamente a quantidade de itens que devem ser tratados por transação efetuada, e assim, podemos ter menos problemas com recursos e mais otimização do uso deles;
+
+Otimização do gerenciamento da Step, ficaria mais encapsulado as etapas de leitura e escrita da Step do tipo Chunk do que do tipo Tasklet. No Tasklet teria que criar dois tasklets para separar suas funções;
+
+O código ficaria mais fácil de entender.

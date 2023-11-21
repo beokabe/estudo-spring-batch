@@ -23,8 +23,8 @@ public class BatchConfig {
     @Autowired
     private StepBuilderFactory stepBuilderFactory;
 
-    /** O uso do Incrementer não é recomendado em ambientes de produção, pois interrompe e reinicializa um Job a partir do zero.
-    Isso pode ser indesejável no ambiente de produção, já que o progresso de execução do Job é perdido.**/
+    /** O uso do Incrementer não é recomendado em ambientes de produção, pois interrompe e reinicializa um job a partir do zero.
+    Isso pode ser indesejável no ambiente de produção, já que o progresso de execução do job é perdido.**/
 
     @Bean
     public Job imprimeHelloWorldJob() {

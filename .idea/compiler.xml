@@ -7,17 +7,20 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="parimparjob" />
+        <module name="primeirojobspringbatch" />
         <module name="primeiroprojetospringbatch" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="parimparjob" target="11" />
+      <module name="primeirojobspringbatch" target="11" />
       <module name="primeiroprojetospringbatch" target="11" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="parimparjob" options="-parameters" />
+      <module name="primeirojobspringbatch" options="-parameters" />
       <module name="primeiroprojetospringbatch" options="-parameters" />
     </option>
   </component>
