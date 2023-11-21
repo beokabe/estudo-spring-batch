@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/ArquivoDelimitadoJob/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ArquivoDelimitadoJob/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ArquivoLarguraFixaJob/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ArquivoLarguraFixaJob/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ArquivoMultiplosFormatosJob/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ArquivoMultiplosFormatosJob/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/JdbcCursorReaderJob/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/JdbcPagingReaderJob/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/JdbcPagingReaderJob/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Readers/ArquivoDelimitadoJob/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Readers/ArquivoDelimitadoJob/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Readers/ArquivoLarguraFixaJob/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Readers/ArquivoLarguraFixaJob/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Readers/ArquivoMultiplosFormatosJob/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Readers/ArquivoMultiplosFormatosJob/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Readers/JdbcCursorReaderJob/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Readers/JdbcCursorReaderJob/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Readers/JdbcPagingReaderJob/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Readers/JdbcPagingReaderJob/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SkipExceptionJob/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SkipExceptionJob/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/parimparjob/src/main/java" charset="UTF-8" />

@@ -7,8 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ArquivoLarguraFixaJob" />
-        <module name="ArquivoDelimitadoJob" />
         <module name="SkipExceptionJob" />
+        <module name="ArquivoDelimitadoJob" />
         <module name="primeiroprojetospringbatch" />
         <module name="JdbcPagingReaderJob" />
         <module name="parimparjob" />

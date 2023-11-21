@@ -1,7 +1,7 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="ArquivoLarguraFixaJobApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
     <module name="ArquivoLarguraFixaJob" />
-    <option name="PROGRAM_PARAMETERS" value="arquivoClientes=file:ArquivoLarguraFixaJob/files/clientes.txt" />
+    <option name="PROGRAM_PARAMETERS" value="arquivoClientes=file:Readers/ArquivoLarguraFixaJob/files/clientes.txt" />
     <option name="SPRING_BOOT_MAIN_CLASS" value="com.springbatch.arquivolargurafixa.ArquivoLarguraFixaJobApplication" />
     <extension name="net.ashald.envfile">
       <option name="IS_ENABLED" value="false" />

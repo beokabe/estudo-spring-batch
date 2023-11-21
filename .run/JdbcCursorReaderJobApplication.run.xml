@@ -1,8 +1,7 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="ArquivoDelimitadoJobApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-    <module name="ArquivoDelimitadoJob" />
-    <option name="PROGRAM_PARAMETERS" value="arquivoClientes=file:Readers/ArquivoDelimitadoJob/files/clientes.txt" />
-    <option name="SPRING_BOOT_MAIN_CLASS" value="com.springbatch.arquivodelimitado.ArquivoDelimitadoJobApplication" />
+  <configuration default="false" name="JdbcCursorReaderJobApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+    <module name="JdbcCursorReaderJob" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="com.springbatch.jdbccursorreader.JdbcCursorReaderJobApplication" />
     <extension name="net.ashald.envfile">
       <option name="IS_ENABLED" value="false" />
       <option name="IS_SUBST" value="false" />

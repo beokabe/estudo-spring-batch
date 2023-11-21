@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ArquivoDelimitadoJob/ArquivoDelimitadoJob.iml" filepath="$PROJECT_DIR$/ArquivoDelimitadoJob/ArquivoDelimitadoJob.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ArquivoLarguraFixaJob/ArquivoLarguraFixaJob.iml" filepath="$PROJECT_DIR$/ArquivoLarguraFixaJob/ArquivoLarguraFixaJob.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ArquivoMultiplosFormatosJob/ArquivoMultiplosFormatosJob.iml" filepath="$PROJECT_DIR$/ArquivoMultiplosFormatosJob/ArquivoMultiplosFormatosJob.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JdbcCursorReaderJob/JdbcCursorReaderJob.iml" filepath="$PROJECT_DIR$/JdbcCursorReaderJob/JdbcCursorReaderJob.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JdbcPagingReaderJob/JdbcPagingReaderJob.iml" filepath="$PROJECT_DIR$/JdbcPagingReaderJob/JdbcPagingReaderJob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Readers/ArquivoDelimitadoJob/ArquivoDelimitadoJob.iml" filepath="$PROJECT_DIR$/Readers/ArquivoDelimitadoJob/ArquivoDelimitadoJob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Readers/ArquivoLarguraFixaJob/ArquivoLarguraFixaJob.iml" filepath="$PROJECT_DIR$/Readers/ArquivoLarguraFixaJob/ArquivoLarguraFixaJob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Readers/ArquivoMultiplosFormatosJob/ArquivoMultiplosFormatosJob.iml" filepath="$PROJECT_DIR$/Readers/ArquivoMultiplosFormatosJob/ArquivoMultiplosFormatosJob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Readers/JdbcCursorReaderJob/JdbcCursorReaderJob.iml" filepath="$PROJECT_DIR$/Readers/JdbcCursorReaderJob/JdbcCursorReaderJob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Readers/JdbcPagingReaderJob/JdbcPagingReaderJob.iml" filepath="$PROJECT_DIR$/Readers/JdbcPagingReaderJob/JdbcPagingReaderJob.iml" />
       <module fileurl="file://$PROJECT_DIR$/SkipExceptionJob/SkipExceptionJob.iml" filepath="$PROJECT_DIR$/SkipExceptionJob/SkipExceptionJob.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/estudo-spring-batch.iml" filepath="$PROJECT_DIR$/.idea/estudo-spring-batch.iml" />
       <module fileurl="file://$PROJECT_DIR$/parimparjob/parimparjob.iml" filepath="$PROJECT_DIR$/parimparjob/parimparjob.iml" />

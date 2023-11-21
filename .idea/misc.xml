@@ -16,6 +16,11 @@
         <option value="$PROJECT_DIR$/JdbcCursorReaderJob/pom.xml" />
         <option value="$PROJECT_DIR$/JdbcPagingReaderJob/pom.xml" />
         <option value="$PROJECT_DIR$/SkipExceptionJob/pom.xml" />
+        <option value="$PROJECT_DIR$/Readers/JdbcPagingReaderJob/pom.xml" />
+        <option value="$PROJECT_DIR$/Readers/ArquivoDelimitadoJob/pom.xml" />
+        <option value="$PROJECT_DIR$/Readers/ArquivoLarguraFixaJob/pom.xml" />
+        <option value="$PROJECT_DIR$/Readers/ArquivoMultiplosFormatosJob/pom.xml" />
+        <option value="$PROJECT_DIR$/Readers/JdbcCursorReaderJob/pom.xml" />
       </list>
     </option>
   </component>

@@ -1,7 +1,7 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="ArquivoMultiplosFormatosJobApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
     <module name="ArquivoMultiplosFormatosJob" />
-    <option name="PROGRAM_PARAMETERS" value="arquivosClientes=file:ArquivoMultiplosFormatosJob/files/clientes*" />
+    <option name="PROGRAM_PARAMETERS" value="arquivosClientes=file:Readers/ArquivoMultiplosFormatosJob/files/clientes*" />
     <option name="SPRING_BOOT_MAIN_CLASS" value="com.springbatch.arquivomultiplosformatos.ArquivoMultiplosFormatosJobApplication" />
     <extension name="net.ashald.envfile">
       <option name="IS_ENABLED" value="false" />
