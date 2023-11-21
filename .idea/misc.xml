@@ -11,6 +11,11 @@
         <option value="$PROJECT_DIR$/parimparjob/pom.xml" />
         <option value="$PROJECT_DIR$/primeirojobspringbatch/pom.xml" />
         <option value="$PROJECT_DIR$/ArquivoLarguraFixaJob/pom.xml" />
+        <option value="$PROJECT_DIR$/ArquivoDelimitadoJob/pom.xml" />
+        <option value="$PROJECT_DIR$/ArquivoMultiplosFormatosJob/pom.xml" />
+        <option value="$PROJECT_DIR$/JdbcCursorReaderJob/pom.xml" />
+        <option value="$PROJECT_DIR$/JdbcPagingReaderJob/pom.xml" />
+        <option value="$PROJECT_DIR$/SkipExceptionJob/pom.xml" />
       </list>
     </option>
   </component>
