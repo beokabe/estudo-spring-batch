@@ -10,6 +10,8 @@ import org.springframework.context.annotation.Configuration;
 
 import com.springbatch.skipexception.dominio.Cliente;
 
+import java.sql.SQLException;
+
 @Configuration
 public class SkipExceptionStepConfig {
 	@Autowired
@@ -22,6 +24,9 @@ public class SkipExceptionStepConfig {
 				.<Cliente, Cliente>chunk(11)
 				.reader(skipExceptionReader)
 				.writer(skipExceptionWriter)
+				.faultTolerant() //tolerância a falha
+				.skip(Exception.class) //skipa somente se for SQLException
+				.skipLimit(2) //se skipar mais de 2 registros, vai haver interrupção de execução
 				.build();
 	}
 }

@@ -9,12 +9,12 @@
         <module name="ArquivoLarguraFixaJob" />
         <module name="SkipExceptionJob" />
         <module name="ArquivoDelimitadoJob" />
-        <module name="primeiroprojetospringbatch" />
         <module name="JdbcPagingReaderJob" />
-        <module name="parimparjob" />
+        <module name="primeiroprojetospringbatch" />
         <module name="ArquivoMultiplosFormatosJob" />
         <module name="JdbcCursorReaderJob" />
-        <module name="primeirojobspringbatch" />
+        <module name="parimparjob" />
+        <module name="primeiroprojetospringbacth" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -25,6 +25,7 @@
       <module name="JdbcPagingReaderJob" target="1.8" />
       <module name="parimparjob" target="11" />
       <module name="primeirojobspringbatch" target="11" />
+      <module name="primeiroprojetospringbacth" target="11" />
       <module name="primeiroprojetospringbatch" target="11" />
       <module name="SkipExceptionJob" target="1.8" />
     </bytecodeTargetLevel>
@@ -39,6 +40,7 @@
       <module name="SkipExceptionJob" options="-parameters" />
       <module name="parimparjob" options="-parameters" />
       <module name="primeirojobspringbatch" options="-parameters" />
+      <module name="primeiroprojetospringbacth" options="-parameters" />
       <module name="primeiroprojetospringbatch" options="-parameters" />
     </option>
   </component>

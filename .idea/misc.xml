@@ -21,6 +21,7 @@
         <option value="$PROJECT_DIR$/Readers/ArquivoLarguraFixaJob/pom.xml" />
         <option value="$PROJECT_DIR$/Readers/ArquivoMultiplosFormatosJob/pom.xml" />
         <option value="$PROJECT_DIR$/Readers/JdbcCursorReaderJob/pom.xml" />
+        <option value="$PROJECT_DIR$/readers/ArquivoDelimitadoJob/pom.xml" />
       </list>
     </option>
   </component>

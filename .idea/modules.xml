@@ -10,7 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/SkipExceptionJob/SkipExceptionJob.iml" filepath="$PROJECT_DIR$/SkipExceptionJob/SkipExceptionJob.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/estudo-spring-batch.iml" filepath="$PROJECT_DIR$/.idea/estudo-spring-batch.iml" />
       <module fileurl="file://$PROJECT_DIR$/parimparjob/parimparjob.iml" filepath="$PROJECT_DIR$/parimparjob/parimparjob.iml" />
-      <module fileurl="file://$PROJECT_DIR$/primeirojobspringbatch/primeirojobspringbatch.iml" filepath="$PROJECT_DIR$/primeirojobspringbatch/primeirojobspringbatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primeirojobspringbatch/primeiroprojetospringbacth.iml" filepath="$PROJECT_DIR$/primeirojobspringbatch/primeiroprojetospringbacth.iml" />
       <module fileurl="file://$PROJECT_DIR$/primeiroprojetospringbatch/primeiroprojetospringbatch.iml" filepath="$PROJECT_DIR$/primeiroprojetospringbatch/primeiroprojetospringbatch.iml" />
     </modules>
   </component>
