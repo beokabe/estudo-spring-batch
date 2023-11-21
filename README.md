@@ -5,7 +5,7 @@
 - Clone o projeto;
 
 
-- Importe o projeto estudo-spring-batch e adicione todos os módulos do projeto na IDE. Rode o projeto em Java 11.
+- Importe o projeto estudo-spring-batch e adicione todos os módulos do projeto na IDE. Rode o projeto em Java 11;
 
 
-- Suba o container do Postgres usando o comando ``docker-compose up -d``
+- Suba o container do Postgres usando o comando ``docker-compose up -d``.
