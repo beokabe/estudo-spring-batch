@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArquivoLarguraFixaJob/ArquivoLarguraFixaJob.iml" filepath="$PROJECT_DIR$/ArquivoLarguraFixaJob/ArquivoLarguraFixaJob.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/estudo-spring-batch.iml" filepath="$PROJECT_DIR$/.idea/estudo-spring-batch.iml" />
       <module fileurl="file://$PROJECT_DIR$/parimparjob/parimparjob.iml" filepath="$PROJECT_DIR$/parimparjob/parimparjob.iml" />
       <module fileurl="file://$PROJECT_DIR$/primeirojobspringbatch/primeirojobspringbatch.iml" filepath="$PROJECT_DIR$/primeirojobspringbatch/primeirojobspringbatch.iml" />

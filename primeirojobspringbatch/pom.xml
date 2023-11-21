@@ -8,41 +8,47 @@
         <version>2.7.17</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.br.udemy</groupId>
-    <artifactId>primeirojobspringbatch</artifactId>
+    <groupId>com.udemy</groupId>
+    <artifactId>primeiroprojetospringbacth</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>primeirojobspringbatch</name>
-    <description>primeirojobspringbatch</description>
+    <name>primeiroprojetospringbacth</name>
+    <description>Meu primeiro projeto Spring Batch</description>
     <properties>
         <java.version>11</java.version>
     </properties>
     <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-batch</artifactId>
+            <exclusions>
+                <exclusion>
+                    <groupId>org.springframework.boot</groupId>
+                    <artifactId>spring-boot-starter-logging</artifactId>
+                </exclusion>
+            </exclusions>
+        </dependency>
+
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
         <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-batch</artifactId>
+            <groupId>org.springframework.batch</groupId>
+            <artifactId>spring-batch-test</artifactId>
+            <scope>test</scope>
         </dependency>
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-jdbc</artifactId>
-        </dependency>
+
         <dependency>
             <groupId>org.postgresql</groupId>
             <artifactId>postgresql</artifactId>
         </dependency>
+
         <dependency>
             <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-data-jpa</artifactId>
+            <artifactId>spring-boot-starter-log4j2</artifactId>
         </dependency>
-        <!--		<dependency>-->
-        <!--			<groupId>com.h2database</groupId>-->
-        <!--			<artifactId>h2</artifactId>-->
-        <!--			<scope>runtime</scope>-->
-        <!--		</dependency>-->
+
     </dependencies>
 
     <build>
@@ -50,11 +56,6 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
-                <configuration>
-                    <image>
-                        <builder>paketobuildpacks/builder-jammy-base:latest</builder>
-                    </image>
-                </configuration>
             </plugin>
         </plugins>
     </build>
