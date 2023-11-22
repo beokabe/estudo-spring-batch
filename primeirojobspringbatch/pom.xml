@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.udemy</groupId>
-    <artifactId>primeiroprojetospringbacth</artifactId>
+    <artifactId>primeirojobspringbatch</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>primeiroprojetospringbacth</name>
+    <name>primeirojobspringbatch</name>
     <description>Meu primeiro projeto Spring Batch</description>
     <properties>
         <java.version>11</java.version>

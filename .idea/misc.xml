@@ -7,9 +7,7 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/primeiroprojetospringbatch/pom.xml" />
         <option value="$PROJECT_DIR$/parimparjob/pom.xml" />
-        <option value="$PROJECT_DIR$/primeirojobspringbatch/pom.xml" />
         <option value="$PROJECT_DIR$/ArquivoLarguraFixaJob/pom.xml" />
         <option value="$PROJECT_DIR$/ArquivoDelimitadoJob/pom.xml" />
         <option value="$PROJECT_DIR$/ArquivoMultiplosFormatosJob/pom.xml" />
@@ -22,6 +20,15 @@
         <option value="$PROJECT_DIR$/Readers/ArquivoMultiplosFormatosJob/pom.xml" />
         <option value="$PROJECT_DIR$/Readers/JdbcCursorReaderJob/pom.xml" />
         <option value="$PROJECT_DIR$/readers/ArquivoDelimitadoJob/pom.xml" />
+        <option value="$PROJECT_DIR$/primeirojobspringbatch/pom.xml" />
+        <option value="$PROJECT_DIR$/primeiroprojetospringbatch/pom.xml" />
+        <option value="$PROJECT_DIR$/processors/ProcessadorScriptJob/pom.xml" />
+        <option value="$PROJECT_DIR$/processors/ProcessadorValidacaoJob/pom.xml" />
+        <option value="$PROJECT_DIR$/writers/DemonstrativoOrcamentarioJob/pom.xml" />
+        <option value="$PROJECT_DIR$/writers/ContasBancariasJob/pom.xml" />
+        <option value="$PROJECT_DIR$/writers/ArquivoLarguraFixaJob/pom.xml" />
+        <option value="$PROJECT_DIR$/writers/ArquivoDelimitadoJob/pom.xml" />
+        <option value="$PROJECT_DIR$/processors/ProcessadorClassifierJob/pom.xml" />
       </list>
     </option>
   </component>

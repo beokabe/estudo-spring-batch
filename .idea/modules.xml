@@ -2,15 +2,21 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Readers/ArquivoDelimitadoJob/ArquivoDelimitadoJob.iml" filepath="$PROJECT_DIR$/Readers/ArquivoDelimitadoJob/ArquivoDelimitadoJob.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Readers/ArquivoLarguraFixaJob/ArquivoLarguraFixaJob.iml" filepath="$PROJECT_DIR$/Readers/ArquivoLarguraFixaJob/ArquivoLarguraFixaJob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/readers/ArquivoDelimitadoJob/ArquivoDelimitadoJob.iml" filepath="$PROJECT_DIR$/readers/ArquivoDelimitadoJob/ArquivoDelimitadoJob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/writers/ArquivoDelimitadoJob/ArquivoDelimitadoJob (1).iml" filepath="$PROJECT_DIR$/writers/ArquivoDelimitadoJob/ArquivoDelimitadoJob (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/writers/ArquivoLarguraFixaJob/ArquivoLarguraFixaJob.iml" filepath="$PROJECT_DIR$/writers/ArquivoLarguraFixaJob/ArquivoLarguraFixaJob.iml" />
       <module fileurl="file://$PROJECT_DIR$/Readers/ArquivoMultiplosFormatosJob/ArquivoMultiplosFormatosJob.iml" filepath="$PROJECT_DIR$/Readers/ArquivoMultiplosFormatosJob/ArquivoMultiplosFormatosJob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/writers/ContasBancariasJob/ContasBancariasJob.iml" filepath="$PROJECT_DIR$/writers/ContasBancariasJob/ContasBancariasJob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/writers/DemonstrativoOrcamentarioJob/DemonstrativoOrcamentarioJob.iml" filepath="$PROJECT_DIR$/writers/DemonstrativoOrcamentarioJob/DemonstrativoOrcamentarioJob.iml" />
       <module fileurl="file://$PROJECT_DIR$/Readers/JdbcCursorReaderJob/JdbcCursorReaderJob.iml" filepath="$PROJECT_DIR$/Readers/JdbcCursorReaderJob/JdbcCursorReaderJob.iml" />
       <module fileurl="file://$PROJECT_DIR$/Readers/JdbcPagingReaderJob/JdbcPagingReaderJob.iml" filepath="$PROJECT_DIR$/Readers/JdbcPagingReaderJob/JdbcPagingReaderJob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/processors/ProcessadorClassifierJob/ProcessadorClassifierJob.iml" filepath="$PROJECT_DIR$/processors/ProcessadorClassifierJob/ProcessadorClassifierJob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/processors/ProcessadorScriptJob/ProcessadorScriptJob.iml" filepath="$PROJECT_DIR$/processors/ProcessadorScriptJob/ProcessadorScriptJob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/processors/ProcessadorValidacaoJob/ProcessadorValidacaoJob.iml" filepath="$PROJECT_DIR$/processors/ProcessadorValidacaoJob/ProcessadorValidacaoJob.iml" />
       <module fileurl="file://$PROJECT_DIR$/SkipExceptionJob/SkipExceptionJob.iml" filepath="$PROJECT_DIR$/SkipExceptionJob/SkipExceptionJob.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/estudo-spring-batch.iml" filepath="$PROJECT_DIR$/.idea/estudo-spring-batch.iml" />
       <module fileurl="file://$PROJECT_DIR$/parimparjob/parimparjob.iml" filepath="$PROJECT_DIR$/parimparjob/parimparjob.iml" />
-      <module fileurl="file://$PROJECT_DIR$/primeirojobspringbatch/primeiroprojetospringbacth.iml" filepath="$PROJECT_DIR$/primeirojobspringbatch/primeiroprojetospringbacth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primeirojobspringbatch/primeirojobspringbatch.iml" filepath="$PROJECT_DIR$/primeirojobspringbatch/primeirojobspringbatch.iml" />
       <module fileurl="file://$PROJECT_DIR$/primeiroprojetospringbatch/primeiroprojetospringbatch.iml" filepath="$PROJECT_DIR$/primeiroprojetospringbatch/primeiroprojetospringbatch.iml" />
     </modules>
   </component>

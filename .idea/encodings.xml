@@ -6,6 +6,12 @@
     <file url="file://$PROJECT_DIR$/primeirojobspringbatch/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/primeiroprojetospringbatch/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/primeiroprojetospringbatch/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/processors/ProcessadorClassifierJob/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/processors/ProcessadorClassifierJob/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/processors/ProcessadorScriptJob/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/processors/ProcessadorScriptJob/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/processors/ProcessadorValidacaoJob/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/processors/ProcessadorValidacaoJob/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/readers/ArquivoDelimitadoJob/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/readers/ArquivoDelimitadoJob/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/readers/ArquivoLarguraFixaJob/src/main/java" charset="UTF-8" />
@@ -18,5 +24,12 @@
     <file url="file://$PROJECT_DIR$/readers/JdbcPagingReaderJob/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/readers/SkipExceptionJob/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/readers/SkipExceptionJob/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/writers/ArquivoDelimitadoJob/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/writers/ArquivoDelimitadoJob/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/writers/ArquivoLarguraFixaJob/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/writers/ContasBancariasJob/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/writers/ContasBancariasJob/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/writers/DemonstrativoOrcamentarioJob/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/writers/DemonstrativoOrcamentarioJob/src/main/resources" charset="UTF-8" />
   </component>
 </project>
