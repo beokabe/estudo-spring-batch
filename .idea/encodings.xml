@@ -12,6 +12,7 @@
     <file url="file://$PROJECT_DIR$/processors/ProcessadorScriptJob/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/processors/ProcessadorValidacaoJob/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/processors/ProcessadorValidacaoJob/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/projetos/migracao-dados-jdbc/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/readers/ArquivoDelimitadoJob/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/readers/ArquivoDelimitadoJob/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/readers/ArquivoLarguraFixaJob/src/main/java" charset="UTF-8" />

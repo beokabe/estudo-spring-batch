@@ -2,17 +2,15 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="JdbcPagingReaderJob" />
-        <module name="primeiroprojetospringbatch" />
         <module name="ArquivoMultiplosFormatosJob" />
         <module name="JdbcCursorReaderJob" />
-        <module name="parimparjob" />
         <module name="primeirojobspringbatch (1) (com.br.udemy)" />
-        <module name="primeirojobspringbatch" />
         <module name="ProcessadorClassifierJob" />
         <module name="ArquivoDelimitadoJob (1)" />
         <module name="ArquivoLarguraFixaJob" />
@@ -20,6 +18,7 @@
         <module name="ArquivoDelimitadoJob" />
         <module name="DemonstrativoOrcamentarioJob" />
         <module name="ContasBancariasJob" />
+        <module name="migracao-dados-jdbc" />
         <module name="ProcessadorValidacaoJob" />
         <module name="ProcessadorScriptJob" />
       </profile>
@@ -33,6 +32,7 @@
       <module name="DemonstrativoOrcamentarioJob" target="1.8" />
       <module name="JdbcCursorReaderJob" target="1.8" />
       <module name="JdbcPagingReaderJob" target="1.8" />
+      <module name="migracao-dados-jdbc" target="11" />
       <module name="parimparjob" target="11" />
       <module name="primeirojobspringbatch" target="11" />
       <module name="primeirojobspringbatch (1) (com.br.udemy)" target="11" />
@@ -58,6 +58,7 @@
       <module name="ProcessadorScriptJob" options="-parameters" />
       <module name="ProcessadorValidacaoJob" options="-parameters" />
       <module name="SkipExceptionJob" options="-parameters" />
+      <module name="migracao-dados-jdbc" options="-parameters" />
       <module name="parimparjob" options="-parameters" />
       <module name="primeirojobspringbatch" options="-parameters" />
       <module name="primeirojobspringbatch (1) (com.br.udemy)" options="" />
