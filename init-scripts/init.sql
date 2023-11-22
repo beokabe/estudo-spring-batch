@@ -6,3 +6,4 @@ ALTER USER postgres WITH SUPERUSER;
 CREATE DATABASE spring_batch OWNER postgres;
 CREATE DATABASE parimparjob OWNER postgres;
 CREATE DATABASE app OWNER postgres;
+CREATE DATABASE xpto OWNER postgres;
