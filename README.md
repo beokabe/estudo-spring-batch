@@ -11,8 +11,6 @@
 - Suba o container do Postgres usando o comando ``docker-compose up -d``.
 
 
-###Referências###
-
 **Referências**
 
 1. BEZERRA, Giuliana. Spring Batch para desenvolvimento de jobs. Disponível em: <https://giulianabezerra.medium.com/spring-batch-para-desenvolvimento-de-jobs-1674ec5b9a20>. Acesso em: [Data de acesso].
