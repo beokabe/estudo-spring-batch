@@ -25,7 +25,7 @@ public class MigrarPessoasStepConfig {
             FlatFileItemWriter<Pessoa> arquivoPessoasInvalidasWriter
     ) {
         return stepBuilderFactory.get("migrarPessoaStep")
-                .<Pessoa, Pessoa>chunk(1)
+                .<Pessoa, Pessoa>chunk(10000)
                 .reader(arquivoPessoaReader)
                 .writer(pessoaClassifierWriter)
                 .stream(arquivoPessoasInvalidasWriter)
