@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/parimparjob/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/parimparjob/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/primeirojobspringbatch/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/primeiroprojetospringbatch/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/primeiroprojetospringbatch/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fundamentos/parimparjob/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fundamentos/parimparjob/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fundamentos/primeirojobspringbatch/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fundamentos/primeiroprojetospringbatch/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fundamentos/primeiroprojetospringbatch/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/processors/ProcessadorClassifierJob/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/processors/ProcessadorClassifierJob/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/processors/ProcessadorScriptJob/src/main/java" charset="UTF-8" />
