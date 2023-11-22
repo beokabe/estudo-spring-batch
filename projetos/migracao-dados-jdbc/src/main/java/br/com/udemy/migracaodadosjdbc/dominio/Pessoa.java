@@ -15,4 +15,8 @@ public class Pessoa {
     private String email;
     private Date dataNascimento;
     private int idade;
+
+    public boolean isValida() {
+        return !this.nome.isBlank() && !this.email.isBlank() && dataNascimento != null;
+    }
 }
